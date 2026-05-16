@@ -45,12 +45,12 @@ I am open to a wide range of roles across the cybersecurity spectrum: SOC analys
 
 | Area | Tools & Technologies |
 |------|----------------------|
-| **SIEM & Detection** | Microsoft Sentinel · KQL · Splunk · SPL · Wazuh |
+| **SIEM & Detection** | Microsoft Sentinel · KQL · Splunk · SPL · Wazuh · Microsoft Azure |
 | **SOAR** | Alert automation · Playbook execution · Incident orchestration |
 | **Scripting & Automation** | Python · Bash |
 | **Network Analysis** | Wireshark · Scapy · PCAP analysis |
 | **Threat Intel & Frameworks** | VirusTotal API · MITRE ATT&CK · Pyramid of Pain · STIX/TAXII · YARA · Sigma |
-| **OS & Endpoint** | Linux (Ubuntu) · Windows 11 |
+| **OS & Endpoint** | Linux (Ubuntu) · Windows 11 · Microsoft Entra ID |
 | **Dev & Workflow** | Git · GitHub · Visual Studio Code |
 
 ---
