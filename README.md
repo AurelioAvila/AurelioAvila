@@ -81,7 +81,8 @@ I am open to opportunities across the full cybersecurity operations spectrum:
 > All repositories include MITRE ATT&CK mapping, evidence screenshots, and analyst write-ups.
 
 ### 🛡️ [soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)
-End-to-end SOC lab on Microsoft Sentinel and Wazuh. Custom KQL detection rules, agent deployment, log ingestion validation, and full triage workflow from alert to incident report.
+
+End-to-end SOC lab on Wazuh + OpenSearch. Custom detection rules, agent deployment, log ingestion validation, and full triage workflow from alert to incident report.
 
 `MITRE` → `T1110.001` Password Guessing · `T1078` Valid Accounts
 
