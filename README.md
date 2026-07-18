@@ -28,6 +28,7 @@ I am open to a wide range of roles across the cybersecurity spectrum: SOC analys
   <img src="https://img.shields.io/badge/Microsoft-SC--200_%28in_progress%29-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Security_Blue_Team-BTL1_%28in_progress%29-1E90FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Trinity_ISE_III-English_C1-2E8B57?style=for-the-badge&logoColor=white" />
+  <a href="https://anthropic.skilljar.com/introduction-to-model-context-protocol"><img src="https://img.shields.io/badge/Anthropic-Introduction_to_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
 
 ---
