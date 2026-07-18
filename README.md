@@ -115,6 +115,12 @@ Python + Scapy PCAP analyzer. Detects port scans, C2 connections on suspicious p
 `MITRE` → `T1046` Network Service Scanning · `T1071` Application Layer Protocol · `T1498` Network DoS
 
 ---
+### 🔌 [dma-guide](https://github.com/AurelioAvila/dma-guide)
+Defensive security reference covering DMA attack mechanics, IOMMU/VT-d protections, Kernel DMA Protection, and memory encryption countermeasures.
+
+`MITRE` → `T1200` Hardware Additions
+
+---
 
 ## 🌍 Languages
 
@@ -123,6 +129,7 @@ Python + Scapy PCAP analyzer. Detects port scans, C2 connections on suspicious p
 | 🇮🇹 Italian | Native |
 | 🇬🇧 English | C1 — Trinity ISE III |
 | 🇫🇷 French | B2 |
+| 🇪🇸 Spanish | B1 |
 
 ---
 
