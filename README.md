@@ -10,7 +10,7 @@
 
 ## About me
 
-SOC Tier 1 analyst with approximately one year of professional experience, actively seeking opportunities in international cybersecurity environments.
+SOC Tier 1 analyst with approximately one year of professional experience and Incident Responder, actively seeking opportunities in international cybersecurity environments.
 
 My work spans alert triage, incident investigation, log analysis, and detection rule tuning across multiple SIEM and SOAR platforms. I complement my professional experience with a strong certification stack and a portfolio of self-built detection engineering projects covering malware triage, phishing analysis, brute force detection, and network traffic forensics.
 
