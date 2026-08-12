@@ -163,7 +163,7 @@ Persona-driven, AI-avatar short-form content bot: script generation, text-to-spe
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AurelioAvila&hide_border=true&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=AurelioAvila&hide_border=true&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="GitHub streak stats" />
 </p>
 
 ---
