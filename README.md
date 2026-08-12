@@ -158,8 +158,8 @@ Persona-driven, AI-avatar short-form content bot: script generation, text-to-spe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AurelioAvila&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9" alt="AurelioAvila's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelioAvila&layout=compact&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-zeta-tan-48.vercel.app/api?username=AurelioAvila&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9" alt="AurelioAvila's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-zeta-tan-48.vercel.app/api/top-langs/?username=AurelioAvila&layout=compact&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
