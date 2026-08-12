@@ -123,6 +123,38 @@ Defensive security reference covering DMA attack mechanics, IOMMU/VT-d protectio
 
 ---
 
+## 🚀 Independent Software Projects
+
+> Self-directed builds outside the SOC day job — end-to-end products and automation systems designed, shipped, and run solo.
+
+### 🖥️ [pc-tweaker-app](https://github.com/AurelioAvila/pc-tweaker-app)
+Windows PC optimization desktop app with reversible performance, gaming, privacy, and maintenance tweaks. Built with Tauri and React, distributed as a signed native installer.
+
+`Stack` → Rust · Tauri · React · TypeScript
+
+---
+
+### 📊 [social-dashboard](https://github.com/AurelioAvila/social-dashboard)
+Local-first desktop dashboard for social media analytics and account diagnostics across multiple platforms, with a Python/FastAPI backend and a Tauri desktop shell.
+
+`Stack` → Python · FastAPI · Tauri · Desktop app
+
+---
+
+### 🛍️ [shopify-dropship-bot](https://github.com/AurelioAvila/shopify-dropship-bot)
+Automation platform covering product importing, price/stock synchronization, and order fulfillment for Shopify dropshipping stores, plus AI-generated social promo videos published to TikTok, Instagram, and X.
+
+`Stack` → Python · Shopify API · CJdropshipping API · ffmpeg
+
+---
+
+### 🎙️ [ai-avatars-bot](https://github.com/AurelioAvila/ai-avatars-bot)
+Persona-driven, AI-avatar short-form content bot: script generation, text-to-speech, GPU-based lip-sync, and fully assembled captioned video for YouTube Shorts, TikTok, and Instagram Reels.
+
+`Stack` → Python · edge-tts · SadTalker · ffmpeg
+
+---
+
 ## 🌍 Languages
 
 | Language | Level |
