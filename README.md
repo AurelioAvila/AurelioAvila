@@ -81,6 +81,14 @@ I am open to opportunities across the full cybersecurity operations spectrum:
 > Personal detection engineering projects built to go beyond day-to-day SOC operations.
 > All repositories include MITRE ATT&CK mapping, evidence screenshots, and analyst write-ups.
 
+### 🧬 [ransomware-dfir-timeline](https://github.com/AurelioAvila/ransomware-dfir-timeline)
+
+Digital forensics timeline reconstruction of a simulated ransomware incident. Correlates process, Prefetch, Registry and filesystem artifacts into one MITRE-mapped timeline, from the initial phishing attachment to mass encryption, with a full incident report (root cause, blast radius, containment, detection gaps).
+
+`MITRE` → `T1566.001` Spearphishing Attachment · `T1486` Data Encrypted for Impact · `T1490` Inhibit System Recovery
+
+---
+
 ### 🛡️ [soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)
 
 End-to-end SOC lab on Wazuh + OpenSearch. Custom detection rules, agent deployment, log ingestion validation, and full triage workflow from alert to incident report.
