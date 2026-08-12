@@ -98,7 +98,7 @@ End-to-end SOC lab on Wazuh + OpenSearch. Custom detection rules, agent deployme
 ---
 
 ### 🔬 [malware-triage-hash](https://github.com/AurelioAvila/malware-triage-hash)
-Python tool for SHA256-based malware triage via VirusTotal API v3. Tested against a real OffLoader trojan sample. Includes a KQL hunt rule for Microsoft Sentinel.
+Python malware triage combining static hash reputation (VirusTotal API v3) with a MITRE-mapped behavioral scoring engine, closing the blind spot where an unseen/zero-day hash gets misread as clean. Includes a KQL hunt rule for Microsoft Sentinel.
 
 `MITRE` → `T1027` Obfuscated Files · `T1204.002` User Execution: Malicious File
 
