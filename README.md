@@ -141,20 +141,6 @@ Local-first desktop dashboard for social media analytics and account diagnostics
 
 ---
 
-### 🛍️ [shopify-dropship-bot](https://github.com/AurelioAvila/shopify-dropship-bot)
-Automation platform covering product importing, price/stock synchronization, and order fulfillment for Shopify dropshipping stores, plus AI-generated social promo videos published to TikTok, Instagram, and X.
-
-`Stack` → Python · Shopify API · CJdropshipping API · ffmpeg
-
----
-
-### 🎙️ [ai-avatars-bot](https://github.com/AurelioAvila/ai-avatars-bot)
-Persona-driven, AI-avatar short-form content bot: script generation, text-to-speech, GPU-based lip-sync, and fully assembled captioned video for YouTube Shorts, TikTok, and Instagram Reels.
-
-`Stack` → Python · edge-tts · SadTalker · ffmpeg
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
