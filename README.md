@@ -119,7 +119,7 @@ SPL detection rules for brute force patterns in Windows Security Event logs. Inc
 ---
 
 ### 🌐 [network-traffic-analysis](https://github.com/AurelioAvila/network-traffic-analysis)
-Python + Scapy PCAP analyzer. Detects port scans, C2 connections on suspicious ports (4444, 6667, 31337...), and UDP flood activity. Generates structured SOC analyst reports.
+Python + Scapy PCAP analyzer. Detects port scans, C2 connections on suspicious ports, and flood activity via both fixed-threshold rules and a statistical baseline (z-score) that catches slow floods fixed thresholds structurally miss — with a reproducible side-by-side demo proving it.
 
 `MITRE` → `T1046` Network Service Scanning · `T1071` Application Layer Protocol · `T1498` Network DoS
 
