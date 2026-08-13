@@ -89,6 +89,14 @@ Digital forensics timeline reconstruction of a simulated ransomware incident. Co
 
 ---
 
+### 🧪 [detection-engineering-rules](https://github.com/AurelioAvila/detection-engineering-rules)
+
+YARA and Sigma detection rules, each validated against synthetic true/false-positive test cases via an automated harness. Sigma rules parsed and converted to real Splunk SPL with pySigma, not just checked for valid YAML.
+
+`MITRE` → `T1059.001` PowerShell · `T1490` Inhibit System Recovery · `T1547.001` Registry Run Keys
+
+---
+
 ### 🛡️ [soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)
 
 End-to-end SOC lab on Wazuh + OpenSearch. Custom detection rules, agent deployment, log ingestion validation, and full triage workflow from alert to incident report.
