@@ -144,7 +144,7 @@ Defensive security reference covering DMA attack mechanics, IOMMU/VT-d protectio
 > Self-directed builds outside the SOC day job — end-to-end products and automation systems designed, shipped, and run solo.
 
 ### 🖥️ [pc-tweaker-app](https://github.com/AurelioAvila/pc-tweaker-app)
-Windows PC optimization desktop app with reversible performance, gaming, privacy, and maintenance tweaks. Built with Tauri and React, distributed as a signed native installer.
+Windows PC optimization desktop app with reversible performance, gaming, privacy, and maintenance tweaks. Built with Tauri and React, distributed via winget and a native installer. Independently reviewed on MajorGeeks (4.0/5.0) and listed on Softpedia.
 
 `Stack` → Rust · Tauri · React · TypeScript
 
