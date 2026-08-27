@@ -30,6 +30,7 @@ I am open to a wide range of roles across the cybersecurity spectrum: SOC analys
   <img src="https://img.shields.io/badge/Trinity_ISE_III-English_C1-2E8B57?style=for-the-badge&logoColor=white" />
   <a href="https://verify.skilljar.com/c/3eprxfyv4fir"><img src="https://img.shields.io/badge/Anthropic-Introduction_to_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
   <a href="https://academy.claude.com/verify/acfb15b8c0f1ef56579439e208961368"><img src="https://img.shields.io/badge/Anthropic-AI_Capabilities_%26_Limitations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://academy.claude.com/verify/a21f60f4e2670aefaf0ec8cd78595c38"><img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_Builders-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
 
 ---
