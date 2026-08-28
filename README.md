@@ -40,7 +40,7 @@ SOC Tier 1 analyst with approximately one year of professional experience and In
 
 My work spans alert triage, incident investigation, log analysis, and detection rule tuning across multiple SIEM and SOAR platforms. I complement my professional experience with a strong certification stack and a portfolio of self-built detection engineering projects covering malware triage, phishing analysis, brute force detection, and network traffic forensics.
 
-I hold internationally recognised certifications — CompTIA Security+, CySA+, and English C1 (Trinity ISE III) — and I am currently pursuing Microsoft SC-200 and BTL1 to further specialise in cloud-native SOC operations and blue team techniques.
+I hold internationally recognised certifications — CompTIA Security+, CySA+, Microsoft SC-200, BTL1, and English C1 (Trinity ISE III) — specialising in cloud-native SOC operations and blue team techniques.
 
 I am open to a wide range of roles across the cybersecurity spectrum: SOC analyst, incident responder, cybersecurity analyst, threat intelligence analyst, detection engineer, and beyond. My goal is to work with serious, driven teams in international environments — wherever the most impactful security work is happening.
 
@@ -51,8 +51,8 @@ I am open to a wide range of roles across the cybersecurity spectrum: SOC analys
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B_%28SY0--701%29-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-SC--200_%28in_progress%29-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Blue_Team-BTL1_%28in_progress%29-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Blue_Team-BTL1-1E90FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Trinity_ISE_III-English_C1-2E8B57?style=for-the-badge&logoColor=white" />
   <a href="https://verify.skilljar.com/c/3eprxfyv4fir"><img src="https://img.shields.io/badge/Anthropic-Introduction_to_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
   <a href="https://academy.claude.com/verify/acfb15b8c0f1ef56579439e208961368"><img src="https://img.shields.io/badge/Anthropic-AI_Capabilities_%26_Limitations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
@@ -63,8 +63,6 @@ I am open to a wide range of roles across the cybersecurity spectrum: SOC analys
 
 ## 🔭 Currently working on
 
-- 📘 **Microsoft SC-200** — Security Operations Analyst Associate
-- 🎯 **BTL1** — Blue Team Level 1 (Security Blue Team)
 - 🔍 Expanding detection coverage across **KQL** (Sentinel) and **SPL** (Splunk)
 - 🌐 Actively pursuing international cybersecurity roles across multiple domains
 
