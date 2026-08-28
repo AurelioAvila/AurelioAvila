@@ -8,6 +8,32 @@
 
 ---
 
+## 🚀 Featured products
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/AurelioAvila/pc-tweaker-app">PC Tweaker</a></h3>
+      Safer Windows performance, gaming, privacy and maintenance tuning, with automatic rollback for every change.<br><br>
+      <a href="https://apps.microsoft.com/detail/9nh3c6dt1g87">Microsoft Store</a> · <a href="https://www.majorgeeks.com/files/details/pc_tweaker.html">MajorGeeks 4/5</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/AurelioAvila/redaxa">Redaxa</a></h3>
+      Privacy and DLP protection that catches secrets, credentials and PII before they reach AI tools.<br><br>
+      <a href="https://promptshield-beta.vercel.app">Try the web app</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/AurelioAvila/social-dashboard">Social Dashboard</a></h3>
+      A local-first Windows analytics workspace for YouTube, Instagram, TikTok and X.<br><br>
+      <a href="https://github.com/AurelioAvila/social-dashboard/releases/latest">Download for Windows</a>
+    </td>
+  </tr>
+</table>
+
+> If one of these projects saves you time or improves your workflow, consider starring it — stars help independent software reach the people who need it.
+
+---
+
 ## About me
 
 SOC Tier 1 analyst with approximately one year of professional experience and Incident Responder, actively seeking opportunities in international cybersecurity environments.
