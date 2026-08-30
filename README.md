@@ -202,6 +202,14 @@ Local-first desktop dashboard for social media analytics and account diagnostics
 
 ---
 
+## 📬 Contact
+
+For professional opportunities, security engineering collaborations, or product inquiries:
+
+**Email:** [aurelio_11@outlook.it](mailto:aurelio_11@outlook.it)
+
+---
+
 ## 🌍 Languages
 
 | Language | Level |
