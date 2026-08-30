@@ -74,11 +74,17 @@ I am open to a wide range of roles across the cybersecurity spectrum: SOC analys
 |------|----------------------|
 | **SIEM & Detection** | Microsoft Sentinel · KQL · Splunk · SPL · Wazuh · Microsoft Azure |
 | **SOAR** | Alert automation · Playbook execution · Incident orchestration |
-| **Scripting & Automation** | Python · Bash |
+| **Programming & Automation** | Rust · TypeScript · JavaScript · Python · PowerShell · Bash · SQL |
+| **Frontend Engineering** | React · Vite · Tailwind CSS · HTML · CSS · Responsive UI · Accessibility · Technical SEO |
+| **Backend & APIs** | Axum · Node.js · Express · FastAPI · REST APIs · PostgreSQL · OAuth 2.0 · JWT |
 | **Network Analysis** | Wireshark · Scapy · PCAP analysis |
 | **Threat Intel & Frameworks** | VirusTotal API · MITRE ATT&CK · Pyramid of Pain · STIX/TAXII · YARA · Sigma |
-| **OS & Endpoint** | Linux (Ubuntu) · Windows 11 · Microsoft Entra ID |
-| **Dev & Workflow** | Git · GitHub · Visual Studio Code |
+| **Application Security** | SSRF prevention · Domain ownership verification · Secure tool execution · Secrets and PII detection · Rate limiting · Security headers |
+| **Desktop & Windows Engineering** | Tauri · Windows Registry · Privilege boundaries · Installer and updater engineering · Signed updates · Automatic rollback |
+| **OS, Identity & Cloud** | Linux (Ubuntu) · Windows 11 · Microsoft Entra ID · Azure · Cloudflare · Railway · Vercel |
+| **Delivery & Distribution** | GitHub Actions · CodeQL · Dependabot · CI/CD · Microsoft Store · winget · Release automation |
+| **Product Integrations** | Stripe · Authenticated platform APIs · Email services · Local-first architecture |
+| **Dev & Workflow** | Git · GitHub · Visual Studio Code · Automated testing · Dependency auditing · Secure configuration |
 
 ---
 
