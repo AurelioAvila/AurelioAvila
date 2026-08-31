@@ -1,4 +1,4 @@
-## Aurelio Avila
+# Aurelio Avila
 
 I build Windows software and security tooling, and I work as an incident responder.
 
