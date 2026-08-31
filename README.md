@@ -12,17 +12,24 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/AurelioAvila/pc-tweaker-app">PC Tweaker</a></h3>
       Safer Windows performance, gaming, privacy and maintenance tuning, with automatic rollback for every change.<br><br>
       <a href="https://apps.microsoft.com/detail/9nh3c6dt1g87">Microsoft Store</a> · <a href="https://www.majorgeeks.com/files/details/pc_tweaker.html">MajorGeeks 4/5</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AurelioAvila/glarion">Glarion</a></h3>
+      Authorized website security scanning for agencies, with ownership verification, SSRF protection and client-ready reports.<br><br>
+      <a href="https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around">Review the security model</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/AurelioAvila/redaxa">Redaxa</a></h3>
       Privacy and DLP protection that catches secrets, credentials and PII before they reach AI tools.<br><br>
       <a href="https://promptshield-beta.vercel.app">Try the web app</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/AurelioAvila/social-dashboard">Social Dashboard</a></h3>
       A local-first Windows analytics workspace for YouTube, Instagram, TikTok and X.<br><br>
       <a href="https://github.com/AurelioAvila/social-dashboard/releases/latest">Download for Windows</a>
