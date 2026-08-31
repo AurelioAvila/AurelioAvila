@@ -1,6 +1,6 @@
 ## Aurelio Avila
 
-I build Windows software and security tooling, and I work as a Incident Responder.
+I build Windows software and security tooling, and I work as an incident responder.
 
 Most of what is here falls into two halves that keep feeding each other. On one
 side, shipped products: desktop applications people install, review and complain
@@ -115,6 +115,9 @@ the way they are.
 [![SC-200](https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/certifications/security-operations-analyst/)
 [![BTL1](https://img.shields.io/badge/Security_Blue_Team-BTL1-1E90FF?style=flat-square)](https://www.securityblue.team/)
 [![Trinity ISE III](https://img.shields.io/badge/Trinity_ISE_III-English_C1-2E8B57?style=flat-square)](https://www.trinitycollege.com/)
+[![Anthropic Introduction to MCP](https://img.shields.io/badge/Anthropic-Introduction_to_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/3eprxfyv4fir)
+[![Anthropic AI Capabilities and Limitations](https://img.shields.io/badge/Anthropic-AI_Capabilities_%26_Limitations-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/acfb15b8c0f1ef56579439e208961368)
+[![Anthropic AI Fluency for Builders](https://img.shields.io/badge/Anthropic-AI_Fluency_for_Builders-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/a21f60f4e2670aefaf0ec8cd78595c38)
 
 **Tools I reach for**
 
