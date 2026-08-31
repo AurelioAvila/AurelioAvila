@@ -27,9 +27,11 @@ understand is a control nobody uses.
 Windows performance, gaming, privacy and maintenance tuning where every change
 is snapshotted before it is applied, so any tweak can be reversed.
 
-[![Downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=downloads&color=2E7D32)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
+![Total downloads](https://img.shields.io/badge/total_downloads-30%2C000%2B-2E7D32?style=flat-square)
+[![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 
+[30,000+ downloads across all distribution channels](https://github.com/AurelioAvila/pc-tweaker-app#where-it-is-published) ·
 [Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) · Softpedia
 review 4.5/5 · [MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html) 5.0/5
 
