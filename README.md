@@ -119,11 +119,22 @@ the way they are.
 [![Anthropic AI Capabilities and Limitations](https://img.shields.io/badge/Anthropic-AI_Capabilities_%26_Limitations-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/acfb15b8c0f1ef56579439e208961368)
 [![Anthropic AI Fluency for Builders](https://img.shields.io/badge/Anthropic-AI_Fluency_for_Builders-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/a21f60f4e2670aefaf0ec8cd78595c38)
 
-**Tools I reach for**
+### Skills and tools
 
-Rust and Tauri for anything that has to touch Windows properly. TypeScript and
-React on top of it. Python for analysis. KQL and SPL for hunting. Postgres when
-state has to survive.
+| Area | Skills, platforms and tools |
+| --- | --- |
+| **Security operations** | Alert triage · Incident investigation · Log correlation · Threat hunting · Detection tuning · Escalation and incident reporting · SOAR playbooks |
+| **SIEM and detection** | Microsoft Sentinel · KQL · Splunk · SPL · Wazuh · OpenSearch · Sigma · YARA · pySigma · MITRE ATT&CK |
+| **DFIR and malware analysis** | Windows event analysis · Process, Prefetch, Registry and filesystem artifacts · Timeline reconstruction · Hash reputation · Behavioural triage · VirusTotal API · Sandbox evidence |
+| **Network and email security** | Wireshark · Scapy · PCAP analysis · Traffic baselining · Port-scan, beaconing and flood detection · Email header analysis · IOC extraction and enrichment |
+| **Application and AI security** | Nuclei · SSRF protection · Domain ownership verification · Secret and PII detection · Data-loss prevention · LLM security · MCP fundamentals |
+| **Software development** | Rust · TypeScript · Python · JavaScript · SQL · React · Tauri · FastAPI · Axum · PostgreSQL · REST APIs |
+| **Platforms and identity** | Windows 10/11 · Linux and Ubuntu · Microsoft Azure · Microsoft Entra ID · Microsoft Store · winget |
+| **Engineering workflow** | Git · GitHub · GitHub Actions · CI/CD · Automated testing · Visual Studio Code · Security scanning · Release automation |
+| **Threat-intelligence frameworks** | STIX/TAXII · Pyramid of Pain · IOC lifecycle · Behaviour-to-technique mapping |
+
+The technologies above are reflected in shipped products, reproducible security
+labs or day-to-day security operations. They are not a keyword inventory.
 
 **Languages** — Italian (native), English (C1), French (B2), Spanish (B1)
 
