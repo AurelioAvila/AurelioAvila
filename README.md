@@ -1,6 +1,6 @@
 ## Aurelio Avila
 
-I build Windows software and security tooling, and I work as a SOC analyst.
+I build Windows software and security tooling, and I work as a Incident Responder.
 
 Most of what is here falls into two halves that keep feeding each other. On one
 side, shipped products: desktop applications people install, review and complain
