@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AurelioAvila/social-dashboard">Social Dashboard</a></h3>
       A local-first Windows analytics workspace for YouTube, Instagram, TikTok and X.<br><br>
-      <a href="https://github.com/AurelioAvila/social-dashboard/releases/latest">Download for Windows</a>
+      <a href="https://socialdashboard.getcertsprint.com/">Visit the product site</a> · <a href="https://github.com/AurelioAvila/social-dashboard/releases/latest">Download</a>
     </td>
   </tr>
 </table>
