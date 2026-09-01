@@ -1,7 +1,5 @@
 # Aurelio Avila
 
-[![Buy me a coffee](https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-one--off%2C%20no%20account-FF5500?style=flat-square&labelColor=1c1c1c)](https://buy.stripe.com/28E3cvdoZdzTdRiedY9Ve00)
-
 I build Windows software and security tooling, and I work as an incident responder.
 
 Most of what is here falls into two halves that keep feeding each other. On one
@@ -47,10 +45,10 @@ Website security scanning for agencies. No scan runs against a domain whose
 ownership has not been proved, and the proof is rechecked when the scan
 executes, not when it is queued.
 
-[![Tests](https://img.shields.io/badge/tests-208-52C78D?style=flat-square)](https://github.com/AurelioAvila/glarion)
+[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
 [![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
 
-[Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
+[glarion.app](https://glarion.app) · [Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
 
 </td>
 </tr>
@@ -150,3 +148,5 @@ labs or day-to-day security operations. They are not a keyword inventory.
 Open to security engineering work and to conversations about the products above.
 
 **[aurelio_11@outlook.it](mailto:aurelio_11@outlook.it)** · Amsterdam
+
+[![Buy me a coffee](https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-one--off%2C%20no%20account-FF5500?style=flat-square&labelColor=1c1c1c)](https://buy.stripe.com/28E3cvdoZdzTdRiedY9Ve00)
