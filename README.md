@@ -32,8 +32,9 @@ is snapshotted before it is applied, so any tweak can be reversed.
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 
 [30,000+ downloads across all distribution channels](https://github.com/AurelioAvila/pc-tweaker-app#where-it-is-published) ·
-[Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) · Softpedia
-review 4.5/5 · [MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html) 5.0/5
+[Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
+[Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) users 5.0/5 ·
+[MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html) 5.0/5
 
 </td>
 <td width="50%" valign="top">
