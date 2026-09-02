@@ -22,6 +22,24 @@ understand is a control nobody uses.
 <tr>
 <td width="50%" valign="top">
 
+**[Glarion](https://glarion.app)**
+
+Website security monitoring for the agencies that look after other people's
+sites. No scan runs against a domain whose ownership has not been proved, and
+the proof is rechecked when the scan executes, not when it is queued.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
+[![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
+
+One site free · Solo €19 · Studio €39 · Agency €99 a month, per account rather
+than per site
+
+[Check a domain now, without an account](https://glarion.app/#check-form) ·
+[Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
+
+</td>
+<td width="50%" valign="top">
+
 **[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
 
 Windows performance, gaming, privacy and maintenance tuning where every change
@@ -35,20 +53,6 @@ is snapshotted before it is applied, so any tweak can be reversed.
 [Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
 [Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) users 5.0/5 ·
 [MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html) 5.0/5
-
-</td>
-<td width="50%" valign="top">
-
-**[Glarion](https://github.com/AurelioAvila/glarion)**
-
-Website security scanning for agencies. No scan runs against a domain whose
-ownership has not been proved, and the proof is rechecked when the scan
-executes, not when it is queued.
-
-[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
-[![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
-
-[glarion.app](https://glarion.app) · [Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
 
 </td>
 </tr>
@@ -84,9 +88,11 @@ history stay on the machine; nothing is relayed through a server of mine.
 
 ### Security engineering
 
-Each of these is a working tool with its own test suite, not a write-up of
-something that was done once. Detection logic is validated against samples that
-should fire and samples that should not, and the validation runs in CI.
+Each of these is a working tool rather than a write-up of something done once,
+and detection logic is validated against samples that should fire and samples
+that should not. Two of them — detection-engineering-rules and
+network-traffic-analysis — run that validation in CI; the labs and the DMA
+reference are documented work, not packaged tools with pipelines.
 
 | Project | What it does |
 | --- | --- |
@@ -145,8 +151,7 @@ labs or day-to-day security operations. They are not a keyword inventory.
 
 ### Contact
 
-Open to security engineering work and to conversations about the products above.
-
 **[aurelio_11@outlook.it](mailto:aurelio_11@outlook.it)** · Amsterdam
 
-[![Buy me a coffee](https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-one--off%2C%20no%20account-FF5500?style=flat-square&labelColor=1c1c1c)](https://buy.stripe.com/28E3cvdoZdzTdRiedY9Ve00)
+Happy to talk about any of the products above, and open to security
+engineering work.
