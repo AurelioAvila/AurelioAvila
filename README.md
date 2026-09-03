@@ -62,7 +62,8 @@ is snapshotted before it is applied, so any tweak can be reversed.
 **[Redaxa](https://github.com/AurelioAvila/redaxa)**
 
 Catches secrets, credentials and personal data in text before it is pasted into
-ChatGPT, Claude, Gemini or Copilot. Detection runs locally.
+ChatGPT, Claude, Gemini or Copilot. Scanned on our backend, never sent to an AI
+provider — details in the [privacy section](https://github.com/AurelioAvila/redaxa#privacy).
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/redaxa?style=flat-square&label=release&color=7C3AED)](https://github.com/AurelioAvila/redaxa/releases)
 
@@ -74,11 +75,22 @@ Desktop app, browser extension and web version
 **[Social Dashboard](https://github.com/AurelioAvila/social-dashboard)**
 
 Local-first analytics for YouTube, Instagram, TikTok and X. Credentials and
-history stay on the machine; nothing is relayed through a server of mine.
+history stay on the machine — the only exception is the Instagram/TikTok OAuth
+handshake, routed through a proxy that never sees your data.
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/social-dashboard?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/social-dashboard/releases)
 
 [Product site](https://socialdashboard.getcertsprint.com/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[CertSprint](https://getcertsprint.com/)**
+
+Practice tests for IT certification exam prep (Security+, CySA+ and other
+vendor tracks), built to mirror real exam format and scoring.
 
 </td>
 </tr>
