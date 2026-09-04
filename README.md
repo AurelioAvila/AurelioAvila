@@ -23,7 +23,7 @@ understand is a control nobody uses.
 <tr>
 <td width="50%" valign="top">
 
-**[Glarion](https://glarion.app)**
+**[Glarion](https://github.com/AurelioAvila/glarion)**
 
 Website security monitoring and client-ready reporting for digital agencies.
 Glarion identifies meaningful changes, turns technical findings into clear
