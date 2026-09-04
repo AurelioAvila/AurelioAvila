@@ -1,6 +1,7 @@
 # Aurelio Avila
 
-I build Windows software and security tooling, and I work as an incident responder.
+Security engineer and product builder creating defensive tools, Windows
+software and practical systems for teams that need clear evidence—not noise.
 
 Most of what is here falls into two halves that keep feeding each other. On one
 side, shipped products: desktop applications people install, review and complain
@@ -24,9 +25,9 @@ understand is a control nobody uses.
 
 **[Glarion](https://glarion.app)**
 
-Website security monitoring for the agencies that look after other people's
-sites. No scan runs against a domain whose ownership has not been proved, and
-the proof is rechecked when the scan executes, not when it is queued.
+Website security monitoring and client-ready reporting for digital agencies.
+Glarion identifies meaningful changes, turns technical findings into clear
+deliverables and requires current proof of domain control before active scans.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
 [![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
@@ -34,7 +35,8 @@ the proof is rechecked when the scan executes, not when it is queued.
 One site free · Solo €19 · Studio €39 · Agency €99 a month, per account rather
 than per site
 
-[Check a domain now, without an account](https://glarion.app/#check-form) ·
+[Check a website without an account](https://glarion.app/#public-check) ·
+[View the sample report](https://glarion.app/sample-report.html) ·
 [Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
 
 </td>
