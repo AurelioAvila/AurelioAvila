@@ -71,17 +71,17 @@ Desktop app, browser extension and web version
 </td>
 <td width="50%" valign="top">
 
-**[Redexa Social](https://github.com/AurelioAvila/social-dashboard)**
+**[Redexa Social](https://github.com/AurelioAvila/redexa-social)**
 
 Local-first creator analytics for YouTube, Instagram, TikTok and X, subject to
 platform permissions and API availability. Analytics history stays on your
 device. Account connections and optional paid features use the services
 described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 
-[![Release](https://img.shields.io/github/v/release/AurelioAvila/social-dashboard?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/social-dashboard/releases)
+[![Release](https://img.shields.io/github/v/release/AurelioAvila/redexa-social?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/redexa-social/releases)
 
 [Product site](https://redexa.getcertsprint.com/) ·
-[Download for Windows](https://github.com/AurelioAvila/social-dashboard/releases/latest)
+[Download for Windows](https://github.com/AurelioAvila/redexa-social/releases/latest)
 
 </td>
 </tr>
