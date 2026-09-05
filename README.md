@@ -1,19 +1,14 @@
 # Aurelio Avila
 
-Security engineer and product builder creating defensive tools, Windows
-software and practical systems for teams that need clear evidence—not noise.
+Security operations, detection engineering and Windows software.
 
-Most of what is here falls into two halves that keep feeding each other. On one
-side, shipped products: desktop applications people install, review and complain
-about, distributed through the Microsoft Store, winget and the usual software
-catalogues. On the other, security engineering: detection rules, forensic
-tooling and incident write-ups, each built to be run and checked rather than
-read and believed.
+I build defensive tools and practical applications, with a focus on clear
+evidence, useful diagnostics and understandable controls. My work spans
+incident investigation, reproducible security labs and products for creators,
+digital agencies and Windows users.
 
-Working both sides changes how you build. Handling alerts for a living teaches
-you what an attacker actually does before your product's threat model is
-finished, and shipping to strangers teaches you that a control nobody can
-understand is a control nobody uses.
+[Explore products](#products) · [Security projects](#security-engineering) ·
+[Skills and tools](#skills-and-tools) · [Get in touch](#contact)
 
 ---
 
@@ -32,8 +27,7 @@ deliverables and requires current proof of domain control before active scans.
 [![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
 [![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
 
-One site free · Solo €19 · Studio €39 · Agency €99 a month, per account rather
-than per site
+[Product site and current plans](https://glarion.app/)
 
 [Check a website without an account](https://glarion.app/#public-check) ·
 [View the sample report](https://glarion.app/sample-report.html) ·
@@ -44,17 +38,17 @@ than per site
 
 **[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
 
-Windows performance, gaming, privacy and maintenance tuning where every change
-is snapshotted before it is applied, so any tweak can be reversed.
+Windows performance, gaming, privacy and maintenance tools with reversible
+tweaks and recovery features. Review each action and its requirements before
+applying system changes.
 
-![Total downloads](https://img.shields.io/badge/total_downloads-30%2C000%2B-2E7D32?style=flat-square)
 [![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 
-[30,000+ downloads across all distribution channels](https://github.com/AurelioAvila/pc-tweaker-app#where-it-is-published) ·
+[Product site](https://pctweaker.app/) ·
 [Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
-[Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) users 5.0/5 ·
-[MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html) 5.0/5
+[Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) ·
+[MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html)
 
 </td>
 </tr>
@@ -71,18 +65,23 @@ provider — details in the [privacy section](https://github.com/AurelioAvila/re
 
 Desktop app, browser extension and web version
 
+[Try the web app](https://promptshield-beta.vercel.app/) ·
+[Download for Windows](https://github.com/AurelioAvila/redaxa/releases/latest)
+
 </td>
 <td width="50%" valign="top">
 
-**[Social Dashboard](https://github.com/AurelioAvila/social-dashboard)**
+**[Redexa Social](https://github.com/AurelioAvila/social-dashboard)**
 
-Local-first analytics for YouTube, Instagram, TikTok and X. Credentials and
-history stay on the machine — the only exception is the Instagram/TikTok OAuth
-handshake, routed through a proxy that never sees your data.
+Local-first creator analytics for YouTube, Instagram, TikTok and X, subject to
+platform permissions and API availability. Analytics history stays on your
+device. Account connections and optional paid features use the services
+described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/social-dashboard?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/social-dashboard/releases)
 
-[Product site](https://socialdashboard.getcertsprint.com/)
+[Product site](https://redexa.getcertsprint.com/) ·
+[Download for Windows](https://github.com/AurelioAvila/social-dashboard/releases/latest)
 
 </td>
 </tr>
@@ -102,11 +101,9 @@ vendor tracks), built to mirror real exam format and scoring.
 
 ### Security engineering
 
-Each of these is a working tool rather than a write-up of something done once,
-and detection logic is validated against samples that should fire and samples
-that should not. Two of them — detection-engineering-rules and
-network-traffic-analysis — run that validation in CI; the labs and the DMA
-reference are documented work, not packaged tools with pipelines.
+Explore detection tools, investigation walkthroughs and documented labs.
+Repository READMEs explain the available evidence, sample data, test commands
+and limitations so you can evaluate each project directly.
 
 | Project | What it does |
 | --- | --- |
@@ -119,19 +116,16 @@ reference are documented work, not packaged tools with pipelines.
 | **[soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)** | Wazuh and OpenSearch lab: custom rules, agent deployment, ingestion validation, and the full path from alert to incident report. |
 | **[dma-guide](https://github.com/AurelioAvila/dma-guide)** | Reference on DMA attack mechanics and the controls that stop them, from IOMMU and VT-d to Kernel DMA Protection. |
 
-Everything is mapped to MITRE ATT&CK and, where behaviour matters more than a
-screenshot, reproducible from the repository.
+The incident and detection projects include MITRE ATT&CK context where applicable.
 
 ---
 
 ### Background
 
 SOC analyst, currently Tier 1, handling alert triage, log correlation and
-detection tuning across Microsoft Sentinel, Splunk and Wazuh. Before the
-products there was the day job, and the day job is why the products are built
-the way they are.
+detection tuning across Microsoft Sentinel, Splunk and Wazuh.
 
-**Certifications**
+**Certifications and course credentials**
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
@@ -157,7 +151,7 @@ the way they are.
 | **Threat-intelligence frameworks** | STIX/TAXII · Pyramid of Pain · IOC lifecycle · Behaviour-to-technique mapping |
 
 The technologies above are reflected in shipped products, reproducible security
-labs or day-to-day security operations. They are not a keyword inventory.
+labs or day-to-day security operations.
 
 **Languages** — Italian (native), English (C1), French (B2), Spanish (B1)
 
