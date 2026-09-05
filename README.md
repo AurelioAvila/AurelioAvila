@@ -14,6 +14,13 @@ digital agencies and Windows users.
 
 ### Products
 
+**Verified Windows releases:** [PC Tweaker 1.9.0](https://github.com/AurelioAvila/pc-tweaker-app/releases/tag/v1.9.0),
+[Redaxa 0.3.3](https://github.com/AurelioAvila/redaxa/releases/tag/v0.3.3) and
+[Redexa Social 1.9.3](https://github.com/AurelioAvila/redexa-social/releases/tag/v1.9.3)
+carry timestamped Certum signatures identifying **Aurelio Avila** as publisher.
+See the [signing status and verification guide](https://github.com/AurelioAvila/.github/blob/master/CODE_SIGNING.md),
+including the unsigned PC Tweaker Uninstaller 0.8.2 exception.
+
 <table>
 <tr>
 <td width="50%" valign="top">
