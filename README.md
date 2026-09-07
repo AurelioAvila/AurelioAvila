@@ -51,6 +51,7 @@ applying system changes.
 
 [![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
+[![WinGet version](https://img.shields.io/winget/v/AurelioAvila.PCTweaker?style=flat-square&label=WinGet&color=0078D4)](https://github.com/microsoft/winget-pkgs/tree/master/manifests/a/AurelioAvila/PCTweaker)
 
 [Product site](https://pctweaker.app/) ·
 [Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
@@ -86,6 +87,7 @@ device. Account connections and optional paid features use the services
 described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/redexa-social?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/redexa-social/releases)
+[![WinGet version](https://img.shields.io/winget/v/AurelioAvila.SocialDashboard?style=flat-square&label=WinGet&color=0078D4)](https://github.com/microsoft/winget-pkgs/tree/master/manifests/a/AurelioAvila/SocialDashboard)
 
 [Product site](https://redexa.getcertsprint.com/) ·
 [Download for Windows](https://github.com/AurelioAvila/redexa-social/releases/latest)
