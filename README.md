@@ -14,7 +14,7 @@ digital agencies and Windows users.
 
 ### Products
 
-**Verified Windows releases:** [PC Tweaker 1.9.0](https://github.com/AurelioAvila/pc-tweaker-app/releases/tag/v1.9.0),
+**Verified Windows releases:** [PC Tweaker 1.10.1](https://github.com/AurelioAvila/pc-tweaker-app/releases/tag/v1.10.1),
 [Redaxa 0.3.3](https://github.com/AurelioAvila/redaxa/releases/tag/v0.3.3) and
 [Redexa Social 1.9.3](https://github.com/AurelioAvila/redexa-social/releases/tag/v1.9.3)
 carry timestamped Certum signatures identifying **Aurelio Avila** as publisher.
@@ -45,8 +45,8 @@ deliverables and requires current proof of domain control before active scans.
 
 **[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
 
-Windows performance, gaming, privacy and maintenance tools with reversible
-tweaks and recovery features. Review each action and its requirements before
+Windows performance, gaming, privacy and maintenance tools with restore
+options for supported settings. Review each action and its requirements before
 applying system changes.
 
 [![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
