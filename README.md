@@ -14,34 +14,16 @@ digital agencies and Windows users.
 
 ### Products
 
-**Verified Windows releases:** [PC Tweaker 1.10.3](https://github.com/AurelioAvila/pc-tweaker-app/releases/tag/v1.10.3),
-[Redaxa 0.3.3](https://github.com/AurelioAvila/redaxa/releases/tag/v0.3.3),
-[Redexa Social 1.9.4](https://github.com/AurelioAvila/redexa-social/releases/tag/v1.9.4) and
-[PC Tweaker Uninstaller 0.8.3](https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/tag/v0.8.3)
-carry timestamped Certum signatures identifying **Aurelio Avila** as publisher.
-See the [signing status and verification guide](https://github.com/AurelioAvila/.github/blob/master/CODE_SIGNING.md).
-These checks apply to the listed releases, not every historical download.
+**Windows downloads:** [PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app/releases/latest),
+[Redaxa](https://github.com/AurelioAvila/redaxa/releases/latest),
+[Redexa Social](https://github.com/AurelioAvila/redexa-social/releases/latest) and
+[PC Tweaker Uninstaller](https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/latest).
+Use the [version-specific signing status and verification guide](https://github.com/AurelioAvila/.github/blob/master/CODE_SIGNING.md)
+to check the exact download, its **Aurelio Avila** publisher signature and trusted timestamp.
+A recorded check applies to that artifact, not every historical or future release.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[Glarion](https://github.com/AurelioAvila/glarion)**
-
-Website security monitoring and client-ready reporting for digital agencies.
-Glarion identifies meaningful changes, turns technical findings into clear
-deliverables and requires current proof of domain control before active scans.
-
-[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
-[![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
-
-[Product site and current plans](https://glarion.app/)
-
-[Check a website without an account](https://glarion.app/#public-check) ·
-[View the sample report](https://glarion.app/sample-report.html) ·
-[Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
-
-</td>
 <td width="50%" valign="top">
 
 **[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
@@ -58,6 +40,24 @@ applying system changes.
 [Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
 [Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) ·
 [MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html)
+
+</td>
+<td width="50%" valign="top">
+
+**[Glarion](https://github.com/AurelioAvila/glarion)**
+
+Website security monitoring and client-ready reporting for digital agencies.
+Glarion identifies meaningful changes, turns technical findings into clear
+deliverables and requires current proof of domain control before active scans.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
+[![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
+
+[Product site and current plans](https://glarion.app/)
+
+[Check a website without an account](https://glarion.app/#public-check) ·
+[View the sample report](https://glarion.app/sample-report.html) ·
+[Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
 
 </td>
 </tr>
@@ -82,9 +82,9 @@ Desktop app, browser extension and web version
 
 **[Redexa Social](https://github.com/AurelioAvila/redexa-social)**
 
-Local-first creator analytics for YouTube, Instagram, TikTok and X, subject to
-platform permissions and API availability. Analytics history stays on your
-device. Account connections and optional paid features use the services
+Private YouTube analytics for Windows. Instagram and TikTok require your own
+developer app; X provides credential status only. Analytics history stays on
+your device. Authorization, email, licensing and updates use remote services
 described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/redexa-social?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/redexa-social/releases)
@@ -122,7 +122,7 @@ and limitations so you can evaluate each project directly.
 | **[malware-triage-hash](https://github.com/AurelioAvila/malware-triage-hash)** | Hash reputation joined to behavioural scoring, so an unknown sample is not read as a clean one. Ships a Sentinel KQL hunt. |
 | **[ransomware-dfir-timeline](https://github.com/AurelioAvila/ransomware-dfir-timeline)** | Process, Prefetch, Registry and filesystem artifacts correlated into a single timeline, from the opened attachment to mass encryption, with root cause and detection gaps. |
 | **[phishing-email-analysis](https://github.com/AurelioAvila/phishing-email-analysis)** | Parses raw `.eml`, extracts headers, URLs and attachment hashes, flags typosquatting and urgency patterns, enriches through VirusTotal. |
-| **[splunk-brute-force-detection](https://github.com/AurelioAvila/splunk-brute-force-detection)** | SPL detections for brute force and password spraying in Windows Security logs, with threshold tuning notes and a triage playbook. |
+| **[splunk-brute-force-detection](https://github.com/AurelioAvila/splunk-brute-force-detection)** | Windows authentication-log investigation with SPL, failed-logon counts by IP and account, and documented triage evidence. |
 | **[soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)** | Wazuh and OpenSearch lab: custom rules, agent deployment, ingestion validation, and the full path from alert to incident report. |
 | **[dma-guide](https://github.com/AurelioAvila/dma-guide)** | Reference on DMA attack mechanics and the controls that stop them, from IOMMU and VT-d to Kernel DMA Protection. |
 
