@@ -26,24 +26,6 @@ A recorded check applies to that artifact, not every historical or future releas
 <tr>
 <td width="50%" valign="top">
 
-**[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
-
-Windows performance, gaming, privacy and maintenance tools with restore
-options for supported settings. Review each action and its requirements before
-applying system changes.
-
-[![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
-[![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
-[![WinGet version](https://img.shields.io/winget/v/AurelioAvila.PCTweaker?style=flat-square&label=WinGet&color=0078D4)](https://github.com/microsoft/winget-pkgs/tree/master/manifests/a/AurelioAvila/PCTweaker)
-
-[Product site](https://pctweaker.app/) ·
-[Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
-[Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) ·
-[MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html)
-
-</td>
-<td width="50%" valign="top">
-
 **[Glarion](https://github.com/AurelioAvila/glarion)**
 
 Website security monitoring and client-ready reporting for digital agencies.
@@ -58,6 +40,24 @@ deliverables and requires current proof of domain control before active scans.
 [Check a website without an account](https://glarion.app/#public-check) ·
 [View the sample report](https://glarion.app/sample-report.html) ·
 [Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
+
+</td>
+<td width="50%" valign="top">
+
+**[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
+
+Windows performance, gaming, privacy and maintenance tools with restore
+options for supported settings. Review each action and its requirements before
+applying system changes.
+
+[![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
+[![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
+[![WinGet version](https://img.shields.io/winget/v/AurelioAvila.PCTweaker?style=flat-square&label=WinGet&color=0078D4)](https://github.com/microsoft/winget-pkgs/tree/master/manifests/a/AurelioAvila/PCTweaker)
+
+[Product site](https://pctweaker.app/) ·
+[Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
+[Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) ·
+[MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html)
 
 </td>
 </tr>
