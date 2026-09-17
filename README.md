@@ -50,6 +50,11 @@ Windows performance, gaming, privacy and maintenance tools with restore
 options for supported settings. Review each action and its requirements before
 applying system changes.
 
+**Past 100,000 downloads across all channels** as of September 2026, counted in
+Microsoft Partner Center. The badge below is GitHub releases only, which is a
+small share of that total; the Microsoft Store carries most of it and publishes
+no public figure.
+
 [![GitHub downloads](https://img.shields.io/github/downloads/AurelioAvila/pc-tweaker-app/total?style=flat-square&label=GitHub%20Releases&color=2563EB)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-app?style=flat-square&label=release&color=0078D4)](https://github.com/AurelioAvila/pc-tweaker-app/releases)
 [![WinGet version](https://img.shields.io/winget/v/AurelioAvila.PCTweaker?style=flat-square&label=WinGet&color=0078D4)](https://github.com/microsoft/winget-pkgs/tree/master/manifests/a/AurelioAvila/PCTweaker)
