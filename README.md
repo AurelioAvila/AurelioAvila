@@ -105,8 +105,9 @@ described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 
 **[CertSprint](https://getcertsprint.com/)**
 
-Practice tests for IT certification exam prep (Security+, CySA+ and other
-vendor tracks), built to mirror real exam format and scoring.
+Independent IT certification practice tests for Security+, CySA+ and other
+vendor tracks, with explanations and domain-level readiness feedback.
+Practice results are not official exam scores or a guarantee of passing.
 
 </td>
 </tr>
