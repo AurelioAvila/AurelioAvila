@@ -14,6 +14,8 @@ digital agencies and Windows users.
 
 ### Products
 
+**[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.4)** — Windows 10/11 x64 driver inventory and update review. It separates detected devices from verified download-ready offers and catalog candidates, so users can check compatibility before changing a working PC. [Download the signed 0.1.4 release](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.4).
+
 **Windows downloads:** [PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app/releases/latest),
 [Redaxa](https://github.com/AurelioAvila/redaxa/releases/latest),
 [Redexa Social](https://github.com/AurelioAvila/redexa-social/releases/latest) and
