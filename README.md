@@ -14,7 +14,7 @@ digital agencies and Windows users.
 
 ### Products
 
-**[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.4)** — Windows 10/11 x64 driver inventory and update review. It separates detected devices from verified download-ready offers and catalog candidates, so users can check compatibility before changing a working PC. [Download the signed 0.1.4 release](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.4).
+**[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases)** — Windows 10/11 x64 driver inventory and update review. It separates detected devices from verified download-ready offers and catalog candidates, so users can check compatibility before changing a working PC. [View the latest release and download](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/latest).
 
 **Windows downloads:** [PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app/releases/latest),
 [Redaxa](https://github.com/AurelioAvila/redaxa/releases/latest),
@@ -76,6 +76,8 @@ no public figure.
 Catches secrets, credentials and personal data in text before it is pasted into
 ChatGPT, Claude, Gemini or Copilot. Scanned on our backend, never sent to an AI
 provider — details in the [privacy section](https://github.com/AurelioAvila/redaxa#privacy).
+The Windows app also checks public GitHub repositories locally for possible
+exposed credentials, with coverage details and redacted reports on Pro and Business plans.
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/redaxa?style=flat-square&label=release&color=7C3AED)](https://github.com/AurelioAvila/redaxa/releases)
 
