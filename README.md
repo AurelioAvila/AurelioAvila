@@ -80,6 +80,7 @@ The Windows app also checks public GitHub repositories locally for possible
 exposed credentials, with coverage details and redacted reports on Pro and Business plans.
 
 [![Release](https://img.shields.io/github/v/release/AurelioAvila/redaxa?style=flat-square&label=release&color=7C3AED)](https://github.com/AurelioAvila/redaxa/releases)
+[![WinGet version](https://img.shields.io/winget/v/AurelioAvila.Redaxa?style=flat-square&label=WinGet&color=0078D4)](https://github.com/microsoft/winget-pkgs/tree/master/manifests/a/AurelioAvila/Redaxa)
 
 Desktop app, browser extension and web version
 
