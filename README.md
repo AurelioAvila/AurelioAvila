@@ -14,12 +14,11 @@ digital agencies and Windows users.
 
 ### Products
 
-**[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases)** — Windows 10/11 x64 driver inventory and update review. It separates detected devices from verified download-ready offers and catalog candidates, so users can check compatibility before changing a working PC. [View the latest release and download](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/latest).
-
 **Windows downloads:** [PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app/releases/latest),
 [Redaxa](https://github.com/AurelioAvila/redaxa/releases/latest),
-[Redexa Social](https://github.com/AurelioAvila/redexa-social/releases/latest) and
-[PC Tweaker Uninstaller](https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/latest).
+[Redexa Social](https://github.com/AurelioAvila/redexa-social/releases/latest),
+[PC Tweaker Uninstaller](https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/latest) and
+[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/latest).
 Use the [version-specific signing status and verification guide](https://github.com/AurelioAvila/.github/blob/master/CODE_SIGNING.md)
 to check the exact download, its **Aurelio Avila** publisher signature and trusted timestamp.
 A recorded check applies to that artifact, not every historical or future release.
@@ -102,6 +101,37 @@ described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 
 [Product site](https://redexa.getcertsprint.com/) ·
 [Download for Windows](https://github.com/AurelioAvila/redexa-social/releases/latest)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[PC Tweaker Uninstaller](https://github.com/AurelioAvila/pc-tweaker-uninstaller)**
+
+Review software removal with an evidence-based confidence score and a clear
+brief before uninstalling. Keep a local removal ledger and use rollback for
+supported reversible changes. Part of the PC Tweaker suite, with separate
+product entitlements.
+
+[![Release](https://img.shields.io/github/v/release/AurelioAvila/pc-tweaker-uninstaller?style=flat-square&label=release&color=7C3AED)](https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases)
+
+[Product site](https://pctweaker.app/uninstaller/) ·
+[Download for Windows](https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+**[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases)**
+
+Review detected Windows devices, download-ready driver offers and catalog
+candidates separately before changing a working PC. Availability and
+compatibility depend on supported sources; an offer is not a performance
+guarantee.
+
+[![Release](https://img.shields.io/github/v/release/AurelioAvila/Tweaky-Driver-Releases?style=flat-square&label=release&color=2563EB)](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases)
+
+[Latest Windows release and notes](https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/latest)
 
 </td>
 </tr>
