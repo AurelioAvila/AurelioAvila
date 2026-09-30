@@ -83,7 +83,7 @@ exposed credentials, with coverage details and redacted reports on Pro and Busin
 
 Desktop app, browser extension and web version
 
-[Try the web app](https://promptshield-beta.vercel.app/) ·
+[Try the web app](https://redaxa.getcertsprint.com/) ·
 [Download for Windows](https://github.com/AurelioAvila/redaxa/releases/latest)
 
 </td>
