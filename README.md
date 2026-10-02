@@ -27,24 +27,6 @@ A recorded check applies to that artifact, not every historical or future releas
 <tr>
 <td width="50%" valign="top">
 
-**[Glarion](https://github.com/AurelioAvila/glarion)**
-
-Website security monitoring and client-ready reporting for digital agencies.
-Glarion identifies meaningful changes, turns technical findings into clear
-deliverables and requires current proof of domain control before active scans.
-
-[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
-[![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
-
-[Product site and current plans](https://glarion.app/)
-
-[Check a website without an account](https://glarion.app/#public-check) ·
-[View the sample report](https://glarion.app/sample-report.html) ·
-[Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
-
-</td>
-<td width="50%" valign="top">
-
 **[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
 
 Windows performance, gaming, privacy and maintenance tools with restore
@@ -64,6 +46,23 @@ no public figure.
 [Microsoft Store](https://apps.microsoft.com/detail/9nh3c6dt1g87) ·
 [Softpedia](https://www.softpedia.com/get/Tweak/System-Tweak/Avila-PC-Tweaker.shtml) ·
 [MajorGeeks](https://www.majorgeeks.com/files/details/pc_tweaker.html)
+
+</td>
+<td width="50%" valign="top">
+
+**[Glarion](https://github.com/AurelioAvila/glarion)**
+
+**Service paused.** Glarion is a website security monitoring project for digital
+agencies. Its scanning backend is currently offline; live scans and monitoring
+are not available. The repository documents its design and security model.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
+[![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
+
+[Project website](https://glarion.app/)
+
+[View the sample report](https://glarion.app/sample-report.html) ·
+[Read the security model](https://github.com/AurelioAvila/glarion#the-constraint-everything-else-is-arranged-around)
 
 </td>
 </tr>
@@ -214,3 +213,4 @@ labs or day-to-day security operations.
 
 Happy to talk about any of the products above, and open to security
 engineering work.
+
