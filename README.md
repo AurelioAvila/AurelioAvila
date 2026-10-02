@@ -7,7 +7,7 @@ evidence, useful diagnostics and understandable controls. My work spans
 incident investigation, reproducible security labs and products for creators,
 digital agencies and Windows users.
 
-[Explore products](#products) · [Security projects](#security-engineering) ·
+[All official links](https://aurelioavila.github.io/links/) · [Explore products](#products) · [Security projects](#security-engineering) ·
 [Skills and tools](#skills-and-tools) · [Get in touch](#contact)
 
 ---
@@ -52,9 +52,8 @@ no public figure.
 
 **[Glarion](https://github.com/AurelioAvila/glarion)**
 
-**Service paused.** Glarion is a website security monitoring project for digital
-agencies. Its scanning backend is currently offline; live scans and monitoring
-are not available. The repository documents its design and security model.
+Website security monitoring for digital agencies. Explore the product website,
+sample reports and documented security model for its scope and requirements.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/AurelioAvila/glarion/ci.yml?style=flat-square&label=CI&color=52C78D)](https://github.com/AurelioAvila/glarion/actions/workflows/ci.yml)
 [![Rust](https://img.shields.io/badge/Rust%20%2B%20Axum-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/AurelioAvila/glarion)
