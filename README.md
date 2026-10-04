@@ -136,6 +136,22 @@ guarantee.
 <tr>
 <td colspan="2" valign="top">
 
+**[Frame Witness Forensics](https://framewitness.pages.dev/)**
+
+Windows photo and video recovery for digital media examination: read-only
+acquisition, previews before export, hashes and an examination log. Free scans
+and previews; export and advanced tools are licensed.
+
+[![Release](https://img.shields.io/github/v/release/AurelioAvila/frame-witness?style=flat-square&label=release&color=2563EB)](https://github.com/AurelioAvila/frame-witness/releases)
+
+[Product website](https://framewitness.pages.dev/) ·
+[Latest Windows release](https://github.com/AurelioAvila/frame-witness/releases/latest)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **[CertSprint](https://getcertsprint.com/)**
 
 Independent IT certification practice tests for Security+, CySA+ and other
