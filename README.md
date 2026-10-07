@@ -1,6 +1,6 @@
-# Aurelio Avila
-
-Security operations, detection engineering and Windows software.
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Aurelio Avila — security operations, detection engineering and Windows software. A radar sweeps across PC Tweaker, Glarion, Redaxa, Redexa Social, PC Tweaker Uninstaller, Tweaky Driver, Frame Witness and CertSprint.">
+</p>
 
 I build defensive tools and practical applications, with a focus on clear
 evidence, useful diagnostics and understandable controls. My work spans
@@ -27,7 +27,7 @@ A recorded check applies to that artifact, not every historical or future releas
 <tr>
 <td width="50%" valign="top">
 
-**[PC Tweaker](https://github.com/AurelioAvila/pc-tweaker-app)**
+<p><img src="assets/logos/pc-tweaker-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/pc-tweaker-app">PC Tweaker</a></strong></p>
 
 Windows performance, gaming, privacy and maintenance tools with restore
 options for supported settings. Review each action and its requirements before
@@ -50,7 +50,7 @@ no public figure.
 </td>
 <td width="50%" valign="top">
 
-**[Glarion](https://github.com/AurelioAvila/glarion)**
+<p><img src="assets/logos/glarion-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/glarion">Glarion</a></strong></p>
 
 Website security monitoring for digital agencies. Explore the product website,
 sample reports and documented security model for its scope and requirements.
@@ -68,7 +68,7 @@ sample reports and documented security model for its scope and requirements.
 <tr>
 <td width="50%" valign="top">
 
-**[Redaxa](https://github.com/AurelioAvila/redaxa)**
+<p><img src="assets/logos/redaxa.svg" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/redaxa">Redaxa</a></strong></p>
 
 Catches secrets, credentials and personal data in text before it is pasted into
 ChatGPT, Claude, Gemini or Copilot. Scanned on our backend, never sent to an AI
@@ -87,7 +87,7 @@ Desktop app, browser extension and web version
 </td>
 <td width="50%" valign="top">
 
-**[Redexa Social](https://github.com/AurelioAvila/redexa-social)**
+<p><img src="assets/logos/redexa-social-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/redexa-social">Redexa Social</a></strong></p>
 
 Private YouTube analytics for Windows. Instagram and TikTok require your own
 developer app; X provides credential status only. Analytics history stays on
@@ -105,7 +105,7 @@ described in the [privacy policy](https://redexa.getcertsprint.com/privacy).
 <tr>
 <td width="50%" valign="top">
 
-**[PC Tweaker Uninstaller](https://github.com/AurelioAvila/pc-tweaker-uninstaller)**
+<p><img src="assets/logos/uninstaller-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/pc-tweaker-uninstaller">PC Tweaker Uninstaller</a></strong></p>
 
 Review software removal with an evidence-based confidence score and a clear
 brief before uninstalling. Keep a local removal ledger and use rollback for
@@ -120,7 +120,7 @@ product entitlements.
 </td>
 <td width="50%" valign="top">
 
-**[Tweaky Driver](https://github.com/AurelioAvila/Tweaky-Driver-Releases)**
+<p><img src="assets/logos/tweaky-driver-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/Tweaky-Driver-Releases">Tweaky Driver</a></strong></p>
 
 Review detected Windows devices, download-ready driver offers and catalog
 candidates separately before changing a working PC. Availability and
@@ -136,7 +136,7 @@ guarantee.
 <tr>
 <td colspan="2" valign="top">
 
-**[Frame Witness Forensics](https://framewitness.pages.dev/)**
+<p><img src="assets/logos/frame-witness-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://framewitness.pages.dev/">Frame Witness Forensics</a></strong></p>
 
 Windows photo and video recovery for digital media examination: read-only
 acquisition, previews before export, hashes and an examination log. Free scans
@@ -152,7 +152,7 @@ and previews; export and advanced tools are licensed.
 <tr>
 <td colspan="2" valign="top">
 
-**[CertSprint](https://getcertsprint.com/)**
+<p><img src="assets/logos/certsprint-128.png" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://getcertsprint.com/">CertSprint</a></strong></p>
 
 Independent IT certification practice tests for Security+, CySA+ and other
 vendor tracks, with explanations and domain-level readiness feedback.
@@ -190,15 +190,25 @@ The incident and detection projects include MITRE ATT&CK context where applicabl
 SOC analyst, currently Tier 1, handling alert triage, log correlation and
 detection tuning across Microsoft Sentinel, Splunk and Wazuh.
 
-**Certifications**
+<a href="https://github.com/AurelioAvila?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=AurelioAvila&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8b86d&icon_color=e8b86d&text_color=c9d1d9&hide=issues,contribs&include_all_commits=false&disable_animations=true&card_width=440" alt="GitHub activity card: stars, commits this year and pull requests" height="170"></a>
+<a href="https://github.com/AurelioAvila?tab=overview"><img src="https://ghchart.rshah.org/e8b86d/AurelioAvila" alt="Contribution calendar for the last twelve months" height="110"></a>
+
+**Certifications and course credentials**
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![SC-200](https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/certifications/security-operations-analyst/)
 [![BTL1](https://img.shields.io/badge/Security_Blue_Team-BTL1-1E90FF?style=flat-square)](https://www.securityblue.team/)
 [![Trinity ISE III](https://img.shields.io/badge/Trinity_ISE_III-English_C1-2E8B57?style=flat-square)](https://www.trinitycollege.com/)
+[![Anthropic Introduction to MCP](https://img.shields.io/badge/Anthropic-Introduction_to_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/3eprxfyv4fir)
+[![Anthropic AI Capabilities and Limitations](https://img.shields.io/badge/Anthropic-AI_Capabilities_%26_Limitations-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/acfb15b8c0f1ef56579439e208961368)
+[![Anthropic AI Fluency for Builders](https://img.shields.io/badge/Anthropic-AI_Fluency_for_Builders-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/a21f60f4e2670aefaf0ec8cd78595c38)
 
 ### Skills and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,ts,py,js,react,tauri,fastapi,postgres,azure,linux,windows,git,githubactions,cloudflare,vscode&perline=15" alt="Rust, TypeScript, Python, JavaScript, React, Tauri, FastAPI, PostgreSQL, Azure, Linux, Windows, Git, GitHub Actions, Cloudflare, Visual Studio Code">
+</p>
 
 | Area | Skills, platforms and tools |
 | --- | --- |
