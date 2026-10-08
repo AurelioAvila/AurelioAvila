@@ -33,7 +33,7 @@ Windows performance, gaming, privacy and maintenance tools with restore
 options for supported settings. Review each action and its requirements before
 applying system changes.
 
-**Past 120,000 downloads** estimated across the Microsoft Store, WinGet and
+**120,000+ downloads** estimated across the Microsoft Store, WinGet and
 dozens of download sites, as of October 2026. The badge below is GitHub releases only, which is a
 small share of that total; the Microsoft Store carries most of it and publishes
 no public figure.
