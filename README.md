@@ -174,11 +174,11 @@ and limitations so you can evaluate each project directly.
 | --- | --- |
 | **[detection-engineering-rules](https://github.com/AurelioAvila/detection-engineering-rules)** | YARA and Sigma rules, each checked against true and false positive cases. Sigma is compiled to real Splunk SPL with pySigma rather than validated as YAML. |
 | **[network-traffic-analysis](https://github.com/AurelioAvila/network-traffic-analysis)** | Scapy PCAP analyser for port scans, C2 beaconing and floods. A statistical baseline catches slow floods that fixed thresholds structurally cannot, with a side-by-side demo showing the difference. |
-| **[malware-triage-hash](https://github.com/AurelioAvila/malware-triage-hash)** | Hash reputation joined to behavioural scoring, so an unknown sample is not read as a clean one. Ships a Sentinel KQL hunt. |
-| **[ransomware-dfir-timeline](https://github.com/AurelioAvila/ransomware-dfir-timeline)** | Process, Prefetch, Registry and filesystem artifacts correlated into a single timeline, from the opened attachment to mass encryption, with root cause and detection gaps. |
-| **[phishing-email-analysis](https://github.com/AurelioAvila/phishing-email-analysis)** | Parses raw `.eml`, extracts headers, URLs and attachment hashes, flags typosquatting and urgency patterns, enriches through VirusTotal. |
+| **[malware-triage-hash](https://github.com/AurelioAvila/malware-triage-hash)** | VirusTotal hash reputation and a scoring engine demonstrated with synthetic behaviour fixtures. Includes a Sentinel KQL example and a historical lab write-up; the demo does not execute binaries. |
+| **[ransomware-dfir-timeline](https://github.com/AurelioAvila/ransomware-dfir-timeline)** | Synthetic Process, Prefetch, Registry and filesystem artifacts correlated into a ransomware timeline, with a documented scenario, root-cause analysis and detection gaps. |
+| **[phishing-email-analysis](https://github.com/AurelioAvila/phishing-email-analysis)** | Parses raw `.eml`, extracts headers and URLs, flags typosquatting and urgency patterns, and enriches IPs and URLs through VirusTotal. Attachment analysis remains planned. |
 | **[splunk-brute-force-detection](https://github.com/AurelioAvila/splunk-brute-force-detection)** | Windows authentication-log investigation with SPL, failed-logon counts by IP and account, and documented triage evidence. |
-| **[soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)** | Wazuh and OpenSearch lab: custom rules, agent deployment, ingestion validation, and the full path from alert to incident report. |
+| **[soc-home-lab](https://github.com/AurelioAvila/soc-home-lab)** | Wazuh and OpenSearch lab: agent deployment, ingestion validation, a failed-logon investigation and documented triage evidence. |
 | **[dma-guide](https://github.com/AurelioAvila/dma-guide)** | Reference on DMA attack mechanics and the controls that stop them, from IOMMU and VT-d to Kernel DMA Protection. |
 
 The incident and detection projects include MITRE ATT&CK context where applicable.
