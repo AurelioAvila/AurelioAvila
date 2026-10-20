@@ -71,8 +71,9 @@ sample reports and documented security model for its scope and requirements.
 <p><img src="assets/logos/redaxa.svg" width="36" height="36" alt="" align="absmiddle">&nbsp;&nbsp;<strong><a href="https://github.com/AurelioAvila/redaxa">Redaxa</a></strong></p>
 
 Catches secrets, credentials and personal data in text before it is pasted into
-ChatGPT, Claude, Gemini or Copilot. Scanned on our backend, never sent to an AI
-provider — details in the [privacy section](https://github.com/AurelioAvila/redaxa#privacy).
+ChatGPT, Claude, Gemini or Perplexity. Free extension checks run in the browser;
+web and Windows checks run on our backend. Nothing is sent to an AI provider —
+details in the [privacy section](https://github.com/AurelioAvila/redaxa#privacy).
 The Windows app also checks public GitHub repositories locally for possible
 exposed credentials, with coverage details and redacted reports on Pro and Business plans.
 
