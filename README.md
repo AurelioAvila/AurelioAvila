@@ -191,7 +191,7 @@ The incident and detection projects include MITRE ATT&CK context where applicabl
 SOC analyst, currently Tier 1, handling alert triage, log correlation and
 detection tuning across Microsoft Sentinel, Splunk and Wazuh.
 
-<a href="https://github.com/AurelioAvila?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=AurelioAvila&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8b86d&icon_color=e8b86d&text_color=c9d1d9&hide=issues,contribs&include_all_commits=false&disable_animations=true&card_width=440" alt="GitHub activity card: stars, commits this year and pull requests" height="170"></a>
+<a href="https://github.com/AurelioAvila?tab=repositories"><img src="assets/stats.svg" alt="GitHub numbers from the API: public repositories, stars on own repositories, followers" height="150"></a>
 <a href="https://github.com/AurelioAvila?tab=overview"><img src="https://ghchart.rshah.org/e8b86d/AurelioAvila" alt="Contribution calendar for the last twelve months" height="110"></a>
 
 **Certifications and course credentials**
