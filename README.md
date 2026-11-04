@@ -235,5 +235,5 @@ labs or day-to-day security operations.
 **[aurelio_11@outlook.it](mailto:aurelio_11@outlook.it)** · Amsterdam
 
 Happy to talk about any of the products above, and open to security
-engineering work.
+engineering, AI security and applied AI engineering roles.
 
